@@ -1,0 +1,14 @@
+body{
+ background-color: white;
+ }
+ #welcome{
+ background-color: gray;
+ border: 5px solid black;
+ padding: 5px;
+ border-radius:12px;
+ 
+ }
+ #image{
+ background-repeat: repeat-x;
+ height: 300px;
+ }
